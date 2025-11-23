@@ -1,6 +1,5 @@
 # DevJobs — Proyecto de Práctica desarrollador web (Upgrade To 2026)
 
-
 ## Descripcion
 DevJobs es una web inspirada en bolsas de empleo para desarrolladores. 
 El objetivo del proyecto es practicar:
@@ -34,7 +33,6 @@ Actualmente estamos en el proceso de CSS y HTML semántico
 ### Como visualizarlo
 1. Clonar el repositorio
 2. Abrir index.html en el navegador
-
 
 ### OBJETIVO PERSONAL
 
